@@ -6,6 +6,7 @@ Texas civic intelligence — rebuilt with strict security, ingestion, and shippi
 
 - **`docs/platform-rebuild/README.md`** — mandatory doc order for humans and agents.
 - **`docs/platform-rebuild/DATA_INGESTION_CONSTITUTION.md`** before any pipeline or schema write.
+- **`docs/PRODUCT_PLAN_CIVIC_PROFILE.md`** — tiered data + profile UX; **`docs/V1_PROFILE_CONTRACT.md`** — same entry point as v1 (`/entity/[id]`, county redirect).
 
 ## Quick start
 

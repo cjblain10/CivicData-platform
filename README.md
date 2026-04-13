@@ -19,6 +19,8 @@ Open [http://localhost:3000](http://localhost:3000).
 | [`AGENTS.md`](AGENTS.md) | AI / agent entrypoint |
 | [`CLAUDE.md`](CLAUDE.md) | Stack quick reference |
 | [`docs/platform-rebuild/`](docs/platform-rebuild/README.md) | Constitution: language, security, ingestion, pre-ship checklist |
+| [`docs/PRODUCT_PLAN_CIVIC_PROFILE.md`](docs/PRODUCT_PLAN_CIVIC_PROFILE.md) | Tiered data strategy + profile UX (gro plan) |
+| [`docs/V1_PROFILE_CONTRACT.md`](docs/V1_PROFILE_CONTRACT.md) | **Preserve:** `/entity/[id]`, tabs, `/county/[fips]` redirect (v1 contract) |
 
 ## Repository setup
 

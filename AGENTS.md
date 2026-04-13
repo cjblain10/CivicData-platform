@@ -12,5 +12,6 @@ This version may differ from older training cutoffs. Read current docs at [nextj
 2. For **data ingestion, migrations, or database writes**, read **`docs/platform-rebuild/DATA_INGESTION_CONSTITUTION.md`** in full.
 3. For **auth, APIs, or deploy**, read **`docs/platform-rebuild/SECURITY_BASELINE.md`** and **`docs/platform-rebuild/PRE_SHIP_CHECKLIST.md`**.
 4. Stack and commands: **`CLAUDE.md`**.
+5. **Civic profile / routing / tiers:** **`docs/PRODUCT_PLAN_CIVIC_PROFILE.md`** and **`docs/V1_PROFILE_CONTRACT.md`**.
 
 *Last updated: 2026-04-13*

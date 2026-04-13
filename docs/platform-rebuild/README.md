@@ -11,10 +11,12 @@ Use this folder as the **constitution** for the new repository. Copy it wholesal
 | 3 | [DATA_INGESTION_CONSTITUTION.md](./DATA_INGESTION_CONSTITUTION.md) | Anyone touching pipelines, migrations, or Supabase writes |
 | 4 | [ARCHITECTURE_PRINCIPLES.md](./ARCHITECTURE_PRINCIPLES.md) | Anyone designing APIs, auth, or deploy |
 
+**Product / UX (civic profile rebuild):** after the above, read [`../PRODUCT_PLAN_CIVIC_PROFILE.md`](../PRODUCT_PLAN_CIVIC_PROFILE.md) and [`../V1_PROFILE_CONTRACT.md`](../V1_PROFILE_CONTRACT.md).
+
 ## Rules of engagement
 
 - **Single source of truth:** These docs override ad-hoc chat instructions when they conflict.
 - **Change control:** Amending the constitution requires a PR that updates this README’s “Last updated” line and, if needed, `AGENTS.md` at repo root.
 - **Agents / AI:** Repo root `AGENTS.md` must list this reading order; automation should fail or warn if `DATA_INGESTION_CONSTITUTION.md` is not acknowledged for ingestion tasks.
 
-*Last updated: 2026-04-13*
+*Last updated: 2026-04-13 (product plan links added)*

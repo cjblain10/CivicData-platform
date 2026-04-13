@@ -11,4 +11,4 @@ Before substantive work:
 2. **Ingestion / DB:** `docs/platform-rebuild/DATA_INGESTION_CONSTITUTION.md`
 3. **Security / ship:** `docs/platform-rebuild/SECURITY_BASELINE.md`, `PRE_SHIP_CHECKLIST.md`
 
-Stack commands: **`CLAUDE.md`**.
+Stack commands: **`CLAUDE.md`**. Civic profile URL contract and tiers: **`docs/V1_PROFILE_CONTRACT.md`**, **`docs/PRODUCT_PLAN_CIVIC_PROFILE.md`**.
