@@ -1,0 +1,14 @@
+---
+description: Read constitution docs before code, ingest, auth, or deploy
+alwaysApply: true
+---
+
+# CivicData greenfield — constitution
+
+Before substantive work:
+
+1. **`docs/platform-rebuild/README.md`** — mandatory reading order.
+2. **Ingestion / DB:** `docs/platform-rebuild/DATA_INGESTION_CONSTITUTION.md`
+3. **Security / ship:** `docs/platform-rebuild/SECURITY_BASELINE.md`, `PRE_SHIP_CHECKLIST.md`
+
+Stack commands: **`CLAUDE.md`**.
